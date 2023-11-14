@@ -1,0 +1,11 @@
+{C:/Users/ANA/Desktop/UVM-SystemVerilog/03_UVM_Testbenches_for_Newbie/17_UVMObject-Understanding UVM_TREE/tb17.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/ANA/Desktop/UVM-SystemVerilog/03_UVM_Testbenches_for_Newbie/17_UVMObject-Understanding UVM_TREE/tb17.sv}
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+** Note: (vlog-2286) C:/Users/ANA/Desktop/UVM-SystemVerilog/03_UVM_Testbenches_for_Newbie/17_UVMObject-Understanding UVM_TREE/tb17.sv(1): Using implicit +incdir+C:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+-- Compiling package tb17_sv_unit
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+-- Compiling module tb
+
+Top level modules:
+	tb
+
+} {} {}}

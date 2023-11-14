@@ -1,0 +1,11 @@
+C:/Users/ANA/Desktop/UVM-SystemVerilog/03_UVM_Testbenches_for_Newbie/01_Hello_World_in_UVM/tb.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ANA/Desktop/UVM-SystemVerilog/03_UVM_Testbenches_for_Newbie/01_Hello_World_in_UVM/tb.sv
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+** Note: (vlog-2286) C:/Users/ANA/Desktop/UVM-SystemVerilog/03_UVM_Testbenches_for_Newbie/01_Hello_World_in_UVM/tb.sv(2): Using implicit +incdir+C:/modeltech64_2020.4/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+-- Compiling package tb_sv_unit
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+-- Compiling module tb
+
+Top level modules:
+	tb
+
+} {} {}}

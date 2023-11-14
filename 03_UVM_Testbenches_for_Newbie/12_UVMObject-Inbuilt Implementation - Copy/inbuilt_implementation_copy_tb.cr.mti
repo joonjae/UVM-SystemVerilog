@@ -1,0 +1,13 @@
+{C:/Users/ANA/Desktop/UVM-SystemVerilog/03_UVM_Testbenches_for_Newbie/12_UVMObject-Inbuilt Implementation - Copy/tb12.sv} {2 {vlog -work work -vopt -sv -stats=none {C:/Users/ANA/Desktop/UVM-SystemVerilog/03_UVM_Testbenches_for_Newbie/12_UVMObject-Inbuilt Implementation - Copy/tb12.sv}
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+** Note: (vlog-2286) C:/Users/ANA/Desktop/UVM-SystemVerilog/03_UVM_Testbenches_for_Newbie/12_UVMObject-Inbuilt Implementation - Copy/tb12.sv(1): Using implicit +incdir+C:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+** Warning: C:/Users/ANA/Desktop/UVM-SystemVerilog/03_UVM_Testbenches_for_Newbie/12_UVMObject-Inbuilt Implementation - Copy/tb12.sv(11): (vlog-2283) Extra semicolon in $unit (global) scope.
+-- Compiling package tb12_sv_unit
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+-- Compiling module tb
+** Warning: C:/Users/ANA/Desktop/UVM-SystemVerilog/03_UVM_Testbenches_for_Newbie/12_UVMObject-Inbuilt Implementation - Copy/tb12.sv(40): (vlog-2240) Treating stand-alone use of function 'randomize' as an implicit VOID cast.
+
+Top level modules:
+	tb
+
+} {} {}}

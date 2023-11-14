@@ -1,0 +1,72 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/ANA/Desktop/UVM-SystemVerilog/03_UVM_Testbenches_for_Newbie/17_UVMObject-Understanding UVM_TREE
+XTarea06_A61_sv_unit
+Z0 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z1 DXx6 mtiUvm 7 uvm_pkg 0 22 oMKUklN?>LE6@MJe7=2><1
+VBSc<hN]KTamhFei>AJzLo1
+r1
+!s85 0
+31
+!i10b 1
+!s100 m1U;G[2[QXlM8`kc@k87=1
+IBSc<hN]KTamhFei>AJzLo1
+!i103 1
+S1
+Z2 dC:/Users/ANA/Desktop/UVM-SystemVerilog/03_UVM_Testbenches_for_Newbie/Tarea06_A61
+Z3 w1669078934
+Z4 8C:/Users/ANA/Desktop/UVM-SystemVerilog/03_UVM_Testbenches_for_Newbie/Tarea06_A61/Tarea06_A61.sv
+Z5 FC:/Users/ANA/Desktop/UVM-SystemVerilog/03_UVM_Testbenches_for_Newbie/Tarea06_A61/Tarea06_A61.sv
+FC:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/uvm_macros.svh
+FC:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_version_defines.svh
+FC:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_message_defines.svh
+FC:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_phase_defines.svh
+FC:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_object_defines.svh
+FC:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_printer_defines.svh
+FC:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_tlm_defines.svh
+FC:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/tlm1/uvm_tlm_imps.svh
+FC:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_sequence_defines.svh
+FC:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_callback_defines.svh
+FC:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_reg_defines.svh
+FC:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_deprecated_defines.svh
+L0 34
+Z6 OL;L;10.6c;65
+Z7 !s108 1669078941.000000
+!s107 C:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_deprecated_defines.svh|C:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_reg_defines.svh|C:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_callback_defines.svh|C:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_sequence_defines.svh|C:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/tlm1/uvm_tlm_imps.svh|C:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_tlm_defines.svh|C:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_printer_defines.svh|C:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_object_defines.svh|C:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_phase_defines.svh|C:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_message_defines.svh|C:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_version_defines.svh|C:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/uvm_macros.svh|C:/Users/ANA/Desktop/UVM-SystemVerilog/03_UVM_Testbenches_for_Newbie/Tarea06_A61/Tarea06_A61.sv|
+Z8 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/ANA/Desktop/UVM-SystemVerilog/03_UVM_Testbenches_for_Newbie/Tarea06_A61/Tarea06_A61.sv|
+!i113 0
+Z9 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z10 tCvgOpt 0
+n@tarea06_@a61_sv_unit
+vtb
+R0
+R1
+DXx4 work 19 Tarea06_A61_sv_unit 0 22 BSc<hN]KTamhFei>AJzLo1
+VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 kMU;nd7MB9nHCScZYX[Pg3
+I3OFGQRE5>54:_<=4`S3XH0
+!s105 Tarea06_A61_sv_unit
+S1
+R2
+R3
+R4
+R5
+L0 66
+R6
+R7
+Z11 !s107 C:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_deprecated_defines.svh|C:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_reg_defines.svh|C:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_callback_defines.svh|C:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_sequence_defines.svh|C:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/tlm1/uvm_tlm_imps.svh|C:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_tlm_defines.svh|C:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_printer_defines.svh|C:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_object_defines.svh|C:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_phase_defines.svh|C:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_message_defines.svh|C:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_version_defines.svh|C:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/uvm_macros.svh|C:/Users/ANA/Desktop/UVM-SystemVerilog/03_UVM_Testbenches_for_Newbie/Tarea06_A61/Tarea06_A61.sv|
+R8
+!i113 0
+R9
+R10
