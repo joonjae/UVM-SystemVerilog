@@ -22,6 +22,26 @@ class uart_monitor extends uvm_monitor;
     endfunction
 
     virtual task run_phase(uvm_phase phase);
-        
+        forever begin
+            @(posedge vif.clk);
+            if(vif.rst)begin
+                tr.oper = reset_asserted;
+                ton     = 0;
+                toff    = 0;
+                `uvm_info("UART_MONITOR", "SYSTEM RESET DETECTED", UVM_NONE);
+                send.write(tr);
+            end
+            else begin
+                tr.baud = vif.baud;
+                tr.oper = random_baud;
+                ton     = 0;
+                toff    = 0;
+                @(posedge vif.tx_clk);
+                toff = $realtime;
+                tr.period = toff - ton;
+                `uvm_info("UART_MON",$sformatf("Baud : %0d Period:%0f",tr.baud, tr.period), UVM_NONE);
+                send.write(tr);
+            end
+        end
     endtask
 endclass //uart_monitor
