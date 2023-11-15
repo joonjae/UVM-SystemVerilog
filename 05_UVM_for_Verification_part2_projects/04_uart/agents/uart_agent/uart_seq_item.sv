@@ -1,6 +1,4 @@
 
-typedef enum bit [1:0] {reset_asserted = 0, random_baud = 1} oper_mode;
-
 class uart_seq_item extends uvm_sequence_item;
     `uvm_object_utils(uart_seq_item)
 
